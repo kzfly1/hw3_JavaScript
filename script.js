@@ -1,3 +1,4 @@
+"use strict";
 //创建一个购物清单数组
 let shoppingList = ["milk", "egg", "bread"];
 
